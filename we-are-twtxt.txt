@@ -36,6 +36,7 @@ nonlinear https://nonlinear.radiofreqs.space/twtxt.txt
 oevl gopher://oevl.info:70/0/twtxt.txt
 pelmel http://pelmel.org/twtxt.txt
 port70 gopher://port70.dk:70/0/port70.txt
+prologic https://prologic.github.io/twtxt.txt
 quite https://lublin.se/twtxt.txt
 reednj http://twtxt.xyz/user/8c2b4bbfa328944ba.txt
 ruebot http://ruebot.github.io/twtxt/twtxt.txt
