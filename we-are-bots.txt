@@ -9,10 +9,6 @@ we_are_bots	https://enotty.dk/we-are-bots.txt
 # Deepities from Takuin Minamoto's ebook of the same name.
 beyond		https://enotty.dk/beyond.txt
 
-# Borgerforslag (in Danish)
-# Newest proposals from https://www.borgerforslag.dk/
-borgerforslag	https://enotty.dk/borgerforslag.txt
-
 # Ddate tweets the current date according to Principia Discordia.
 # Please see https://en.wikipedia.org/wiki/Discordian_calendar for details.
 ddate		https://enotty.dk/ddate.txt
@@ -48,8 +44,5 @@ tokipona	https://enotty.dk/tokipona.txt
 # bullseye reports every day how far off we-are-twtxt users are from the 140
 # character limit and declares winners and losers.
 bullseye	https://domgoergen.com/twtxt/bullseye.txt
-
-# ShowHN tweets projects seen on https://news.ycombinator.com/shownew
-showhn		https://enotty.dk/showhn.txt
 
 # EOF
