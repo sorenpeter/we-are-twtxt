@@ -47,6 +47,7 @@ sdk https://codevoid.de/tw.txt
 sixbitproxywax https://sixbitproxywax.com/twtxt.txt
 svf http://scott.vranesh-fallin.com/twtxt.txt
 sysdharma https://twtxt.lpho.de/twtxt.txt
+TaMeR https://4069.twt.social/user/tamer
 tfurrows https://grex.org/~tfurrows/twtxt.txt
 tildebeast https://tilde.team/~tildebeast/twtxt/twtxt.txt
 tux0r https://twtxt.rosaelefanten.org/
