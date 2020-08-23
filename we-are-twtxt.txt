@@ -35,6 +35,7 @@ mk http://mk.sdf.org/twtxt.txt
 mr_woggle https://tilde.town/~mr_woggle/twtxt.txt
 nblade http://nblade.sdf.org/twtxt/twtxt.txt
 nonlinear https://nonlinear.radiofreqs.space/twtxt.txt
+nristen https://karl.theharrisclan.net/twtxt.txt
 oevl gopher://oevl.info:70/0/twtxt.txt
 pbatch https://pbat.ch/twtxt.txt
 pelmel http://pelmel.org/twtxt.txt
