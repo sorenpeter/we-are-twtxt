@@ -25,6 +25,7 @@ jlj http://ctrl-c.club/~jlj/tw.txt
 johanbove https://johanbove.info/twtxt.txt
 kas https://enotty.dk/twtxt.txt
 kasdk https://enotty.dk/kasdk.txt
+kernel-pancake https://kernel-pancake.nl/twtxt.txt
 koehr https://koehr.in/twtxt.txt
 lahvak http://lahvak.github.io/twtxt/twtxt.txt
 leo https://www.gkbrk.com/twtxt.txt
