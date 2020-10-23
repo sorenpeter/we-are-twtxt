@@ -8,6 +8,7 @@ buckket https://buckket.org/twtxt.txt
 c-keen http://pestilenz.org/~ckeen/twtxt.txt
 clementd http://clementd-files.cellar.services.clever-cloud.com/twtxt.txt
 dave https://davebucklin.com/twtxt.txt
+deadguy https://dgy.fuckup.club/twtxt.txt
 deepend https://yourtilde.com/~deepend/twtxt.txt
 edsu http://edsu.github.io/twtxt/twtxt.txt
 eli_oat https://txt.eli.li/twtxt/twtxt.txt
