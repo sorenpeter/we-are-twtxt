@@ -5,9 +5,6 @@
 we_are_twtxt	https://enotty.dk/we-are-twtxt.txt
 we_are_bots	https://enotty.dk/we-are-bots.txt
 
-# Phases of the Moon, weekly'ish
-moon		https://enotty.dk/moon.txt
-
 # Soltempore tweets a greeting to most capitals (and some cities that
 # are not) in the world as the sun sweeps over the land. This is a
 # very noisy feed.
