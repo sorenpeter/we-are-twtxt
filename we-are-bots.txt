@@ -5,8 +5,6 @@
 we_are_twtxt	https://enotty.dk/we-are-twtxt.txt
 we_are_bots	https://enotty.dk/we-are-bots.txt
 
-# Current weather in Copenhagen Airport (ICAO: EKCH)
-ekch		https://enotty.dk/ekch.txt
 # Current weather in Bornholms Lufthavn (ICAO: EKRN)
 ekrn		https://enotty.dk/ekrn.txt
 
