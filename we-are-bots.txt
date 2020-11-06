@@ -5,10 +5,6 @@
 we_are_twtxt	https://enotty.dk/we-are-twtxt.txt
 we_are_bots	https://enotty.dk/we-are-bots.txt
 
-# Tiktok tweets a heartbeat every full hour. Useful if you want to be
-# sure that your timeline is moving — of if you just want a marker.
-tiktok		https://enotty.dk/tiktok.txt
-
 # Wanna brush up your Toki Pona vocabulary? Tokipona tweets a word
 # a day. A new course starts every 124 days. ;)
 tokipona	https://enotty.dk/tokipona.txt
