@@ -9,8 +9,6 @@ we_are_bots	https://enotty.dk/we-are-bots.txt
 # are not) in the world as the sun sweeps over the land. This is a
 # very noisy feed.
 soltempore	https://enotty.dk/soltempore.txt
-# Caudasol contains the 3 latest tweets from soltempore.
-caudasol	https://enotty.dk/caudasol.txt
 
 # Tiktok tweets a heartbeat every full hour. Useful if you want to be
 # sure that your timeline is moving — of if you just want a marker.
