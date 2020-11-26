@@ -1,10 +1,6 @@
 # We are twtxt bots
 # A curated list of accounts with automated postings.
 
-# Our two meta bots, “We Are Twtxt” and “We Are Twtxt Bots”:
-we_are_twtxt	https://enotty.dk/we-are-twtxt.txt
-we_are_bots	https://enotty.dk/we-are-bots.txt
-
 # 8ball is a magic 8-ball that will answer any question that is directed only
 # to it and ends with an exclamation point. It checks we-are-twtxt every ten
 # minutes.
