@@ -10,4 +10,6 @@
 # character limit and declares winners and losers.
 bullseye	https://domgoergen.com/twtxt/bullseye.txt
 
+# tiktok reports the current UTC time every half hour
+tiktok	https://feeds.twtxt.net/tiktok/twtxt.txt
 # EOF
