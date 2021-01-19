@@ -50,3 +50,5 @@ vain https://www.uninformativ.de/twtxt.txt
 von https://tilde.town/~von/twtxt.txt
 xandkar https://xandkar.net/twtxt.txt
 niplav https://niplav.github.io/twtxt.txt
+sorenpeter http://darch.dk/twtxt.txt
+darch https://twtxt.net/user/darch/twtxt.txt
